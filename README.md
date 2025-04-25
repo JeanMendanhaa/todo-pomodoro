@@ -8,8 +8,6 @@ Project created to assist with daily tasks and focus control.
 Link Online: https://todo-pomodoro-sigma.vercel.app/
 
 ## Preview App
-![image](https://github.com/user-attachments/assets/8f4ede10-8ccc-4792-bea5-bb7964fa8dff)
-
 ![image](https://github.com/user-attachments/assets/25973f8d-b8ac-42c2-906b-9fcbdb415e2e)
 
 
